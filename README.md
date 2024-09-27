@@ -1,1 +1,1 @@
-# Indian-election-sql-project
+# Indian-election 2024-sql-project
